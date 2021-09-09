@@ -1,0 +1,60 @@
+ body{
+     font-family: sans-serif;
+ }
+ .container{
+     padding-bottom: 20px;
+     /* background: #1F4788; */
+ }
+
+ .logo{
+    width: 150px;
+    height: 54px;
+} 
+.carosol-bg-color{
+    background-color: #FEEAE9;
+    box-shadow: 8px 10px 10px lightgray;
+}
+.poster{
+    padding-left: 10px;
+}
+.buy-now{
+    background-color: #FF589B;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.cat1{
+    background-color:#FF9C35 ;
+    box-shadow: 5px 5px 8px lightgray;
+    
+}
+
+.cat2{
+    background-color:#FF589B ;
+    box-shadow: 5px 5px 8px lightgray;
+    
+}
+
+.cat3{
+    background-color:#4289FF ;
+    box-shadow: 5px 5px 8px lightgray;
+}
+
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    /* height: 400px; */
+}

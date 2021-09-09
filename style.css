@@ -13,6 +13,7 @@
 .carosol-bg-color{
     background-color: #FEEAE9;
     box-shadow: 8px 10px 10px lightgray;
+    text-align: center;
 }
 .poster{
     padding-left: 10px;
@@ -22,6 +23,7 @@
     border-radius: 5px;
     border: none;
     color: white;
+    
 }
 
 
@@ -57,4 +59,23 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
     /* height: 400px; */
+    /* text-align: center; */
+    
+}
+.footer-card{
+    background-color: rgb(221, 218, 218);
+    border-top: none;
+}
+li{
+    text-decoration: none; 
+    list-style-type: none;
+    text-align: center;
+}
+#Subscribe{
+    height: 300px;
+}
+
+footer{
+    text-align: center;
+    padding: 10px 10px;
 }
